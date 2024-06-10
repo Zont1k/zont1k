@@ -22,6 +22,6 @@ You can reach out to me through the following channels:
 
 - [Site](https://zont1k.cc/)
 - [Email](oleksiizotov06@gmail.com)
-- [Discord](https://discord.com/users/564380749873152004))
+- [Discord](https://discord.com/users/564380749873152004)
 
 Feel free to contact me if you have any questions, suggestions, or just want to say hi! 😊
