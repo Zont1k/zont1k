@@ -23,10 +23,6 @@ Student in Germany. Building production-ready projects with C#, .NET, Python, an
 | **Lfg-Discord-Bot** | Gaming room creation bot for Discord | C#, Discord.NET |
 | **WordleApp** | Russian-language Wordle clone with animations | HTML, CSS, JS |
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zont1k&show_icons=true&theme=radical)
-
 ## Contact
 
 - 📧 oleksiizotov06@gmail.com
